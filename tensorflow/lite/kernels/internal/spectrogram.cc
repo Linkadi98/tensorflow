@@ -19,6 +19,7 @@ limitations under the License.
 #include <math.h>
 
 #include "third_party/fft2d/fft.h"
+#include <cstdint>
 
 namespace tflite {
 namespace internal {
